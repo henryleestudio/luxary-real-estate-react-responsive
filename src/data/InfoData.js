@@ -1,7 +1,7 @@
-import vertImageOne from '../images/img-8.jpg'
-import vertImageTwo from '../images/img-9.jpg'
-import vertImageThree from '../images/img-10.jpg'
-import vertImageFour from '../images/img-11.jpg'
+import vertImageOne from '../images/real-eastate-dominican-republic-2.jpeg'
+import vertImageTwo from '../images/real-eastate-dominican-republic-3.jpeg'
+import vertImageThree from '../images/real-eastate-lagos-2.jpeg'
+import vertImageFour from '../images/real-eastate-lagos-3.jpeg'
 
 
 export const InfoData = {
@@ -44,3 +44,10 @@ export const InfoDataFour = {
 }
 
 export default InfoData
+
+
+// https://360luxuryrealestate.com/listings/villa-high-class-is-a-vacation-rental-home-without-limits/ 
+// https://hauteretreats.com/thailand-villa-rentals/
+// https://www.airbnb.com/indonesia/stays/luxury
+// https://www.google.com/search?q=luxury+villas+in+indonesia&tbm=isch&ved=2ahUKEwiFxZ-fx7KCAxWdMWIAHV_mDtMQ2-cCegQIABAA&oq=luxury+villas+in+indo&gs_lcp=CgNpbWcQARgBMgUIABCABDIHCAAQGBCABDoECCMQJzoGCAAQCBAeOgYIABAFEB5QhZYXWNKbF2CwthdoAXAAeACAAWeIAaQEkgEDNS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=GIdKZYXZJ53jiLMP38y7mA0&bih=673&biw=1440&rlz=1C5CHFA_enUS997US997#imgrc=2_OWlHc-aKJT-M
+// https://luxmare.pt/casa-l-luxury-villa-lagos-algarve/

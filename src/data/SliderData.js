@@ -1,5 +1,5 @@
-import imageOne from '../images/real-eastate-dominican-republic.jpeg'
-import imageTwo from '../images/real-eastate-lagos.jpeg'
+import imageOne from '../images/real-eastate-dominican-republic-1.jpeg'
+import imageTwo from '../images/real-eastate-lagos-1.jpeg'
 import imageThree from '../images/real-eastate-thailand.jpeg'
 import imageFour from '../images/real-eastate-indonesia.avif'
 
