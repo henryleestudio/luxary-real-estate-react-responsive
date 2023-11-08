@@ -16,7 +16,22 @@ export const Footer = () => {
       <div className="input-areas">
         <form action="">
           <input type="email" name="email" placeholder="Your Email" className="footer-input" />
-          <Button buttonStyle="btn--outline">Subscribe</Button>
+          <Button  
+            primary="true"    
+            css={`
+              min-width: 100px;
+              max-width: 200px;
+              cursor: pointer;
+              text-decoration: none;
+              transition: 0.3s;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              padding: 14px 24px;
+              color: #fff;
+              font-size: 14px;
+              border: 1px solid white;`} 
+            >Subscribe</Button>
         </form>
       </div>
     </section>

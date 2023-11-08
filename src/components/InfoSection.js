@@ -68,7 +68,7 @@ export const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, 
           <h1>{heading}</h1>
           <p>{paragraphOne}</p>
           <p>{paragraphTwo}</p>
-          <Button to='/homes' primary={true}>
+          <Button to='/homes' primary={false}>
             {buttonLabel}
           </Button>
         </ColumnLeft>
@@ -82,7 +82,7 @@ export const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, 
           <h1>{InfoDataTwo.heading}</h1>
           <p>{InfoDataTwo.paragraphOne}</p>
           <p>{InfoDataTwo.paragraphTwo}</p>
-          <Button to='/homes' primary={true}>
+          <Button to='/homes' primary={false}>
             {buttonLabel}
           </Button>
         </ColumnLeft>
@@ -96,7 +96,7 @@ export const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, 
           <h1>{InfoDataThree.heading}</h1>
           <p>{InfoDataThree.paragraphOne}</p>
           <p>{InfoDataThree.paragraphTwo}</p>
-          <Button to='/homes' primary={true}>
+          <Button to='/homes' primary={false}>
             {buttonLabel}
           </Button>
         </ColumnLeft>
@@ -108,7 +108,7 @@ export const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, 
           <h1>{InfoDataFour.heading}</h1>
           <p>{InfoDataFour.paragraphOne}</p>
           <p>{InfoDataFour.paragraphTwo}</p>
-          <Button to='/homes' primary={true}>
+          <Button to='/homes' primary={false}>
             {buttonLabel}
           </Button>
         </ColumnLeft>
