@@ -181,6 +181,8 @@ export const Hero = ({ slides }) => {
                   to={slide.path} 
                   primary='true'
                   css={`
+                    background-color: white;
+                    color: #242424;
                     max-width: 160px;
                     `}
                 >

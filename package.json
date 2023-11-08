@@ -1,7 +1,7 @@
 {
   "name": "react-modern-design",
   "version": "0.1.0",
-  "homepage": "https://henryleestudio.github.io/luxary-real-estate-react-responsive/",
+  "homepage": "https://henryleestudio.github.io/luxary-real-estate-react-responsive",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

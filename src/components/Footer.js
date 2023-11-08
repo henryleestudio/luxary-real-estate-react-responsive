@@ -28,7 +28,6 @@ export const Footer = () => {
               justify-content: center;
               align-items: center;
               padding: 14px 24px;
-              color: #fff;
               font-size: 14px;
               border: 1px solid white;`} 
             >Subscribe</Button>
