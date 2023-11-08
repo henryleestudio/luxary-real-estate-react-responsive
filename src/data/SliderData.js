@@ -14,7 +14,7 @@ export const SliderData = [
   },
 
   {
-    title: 'Luxury Villas in Lagos, West Africa',
+    title: 'Villas in Lagos, West Africa',
     price: '$8,420,000',
     path: '/homes',
     label: 'View Home',

@@ -30,6 +30,7 @@ const ColumnLeft = styled.div`
   h1 {
     margin-bottom: 1.2rem;
     font-size: clamp(1.5rem, 6vw, 2rem);
+    font-weight: 300;
   }
 
   p {

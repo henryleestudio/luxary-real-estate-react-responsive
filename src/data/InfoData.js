@@ -5,11 +5,9 @@ import vertImageFour from '../images/real-eastate-lagos-3.jpeg'
 
 
 export const InfoData = {
-  heading: 'Love & Legacy',
-  paragraphOne: `Because whenever we display acts of love such as these to our children, that act is a reflection of God’s love. After all, we are only capable of love “because He first loved us.” 1 John 4:19. While our love for our children is just a fragment of God’s incomprehensible love for them, it opens the door for our children to better accept God’s love.
-  
-  Because God’s love is so gracious and unconditional it can be difficult to understand and hard to accept when we become adults. But the good news is that our children are better equipped to accept that love when they see it on display through their parents. Through YOU.`,
-  paragraphTwo: 'You are creating something today. Something beautiful. Something eternal. You are creating your legacy of love.',
+  heading: 'Ultra Luxury',
+  paragraphOne: `Spend the day in the circular deck, relax by the pool, watch your children play in the gardens, and relax in the evening in the main salon or private den; sensations of Infinity are everywhere. There is no other property in all Casa de Campo available today which combines exceptional quality, meticulous details, captivating views and all the contemporary magnificence of Villa High-Class.`,
+  paragraphTwo: 'Flanked on all sides by palm trees and endless vistas of blues, whites and greens, Villa High-Class is situated on a unique 4,798 SM / 51,647 SF home site within an impressive 1,433 SM / 15,400 SF of top-quality construction including outdoor areas',
   buttonLabel: 'View homes',
   image: vertImageOne,
   reverse: false,
@@ -17,27 +15,25 @@ export const InfoData = {
 }
 
 export const InfoDataTwo = {
-  heading: 'Modern Family',
-  paragraphOne: 'Family is a very old social group. It has been in existence since long times. It is older than society and as old as human life itself. But despite all this, it is not a static institution. It is always changing with the march of time. It is for this reason that the structure of the modern family is not the same as it was about a century ago.',
-  paragraphTwo: 'As a result of this the modern family has become much different from the ancient family.',
+  heading: 'In Casa De Campo',
+  paragraphOne: 'Extremely private with unobstructed, panoramic views of the Caribbean Sea, six (6) uninterrupted ocean view spacious bedrooms with impeccable decor, three of which are Master suites, an elevator, state of the art kitchen, tropical, lush landscaping, two pools – one infinity pool with a jacuzzi overlooking the ocean and the other one is a plunge pool sitting on the rooftop deck, and plenty more spectacular amenities.',
+  paragraphTwo: 'One visit and you will understand why this home is considered by many to be one of the most privileged homes and locations in all of Casa de Campo.',
   image: vertImageTwo,
   reverse: true,
   delay: 300
 }
 
 export const InfoDataThree = {
-  heading: 'This success story',
-  paragraphOne: 'The cars we drive say a lot about us.',
-  paragraphTwo: 'It’s good when you follow your dreams, It’s better when you drive your dream.',
+  heading: 'Lux Mare Casa L',
+  paragraphOne: '“An amazing place, with luxurious facilities! A complete concept, with beautiful villas and stunning scenery.” – Kristine, Google Reviews',
   image: vertImageThree,
   reverse: true,
   delay: 300
 }
 
 export const InfoDataFour = {
-  heading: 'Arts & Elegance',
-  paragraphOne: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos.',
-  paragraphTwo: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid.',
+  heading: 'High End Interior',
+  paragraphOne: '“Fantastic beautiful villa with an architecture that meets both physical and spiritual needs! Must only be experienced! Incredibly nice people in the team around LUX MARE, nothing is missing here! Value for money. Going back more than happy.” – Lisa, Direct Review',
   image: vertImageFour,
   reverse: true,
   delay: 300
