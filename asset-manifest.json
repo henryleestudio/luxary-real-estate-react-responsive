@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/luxary-real-estate-react-responsive/static/css/main.d6accbad.css",
+    "main.js": "/luxary-real-estate-react-responsive/static/js/main.0e9c31fe.js",
+    "static/js/787.b719428f.chunk.js": "/luxary-real-estate-react-responsive/static/js/787.b719428f.chunk.js",
+    "static/media/real-eastate-thailand.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-thailand.2d3f03a0491f5dc6fad6.jpeg",
+    "static/media/real-eastate-dominican-republic-2.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-dominican-republic-2.39e60de4c1c211964cb1.jpeg",
+    "static/media/real-eastate-dominican-republic-1.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-dominican-republic-1.a1c3c10f50c18d06b7b9.jpeg",
+    "static/media/real-eastate-lagos-2.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-lagos-2.730ac6c7e6d3e311dd08.jpeg",
+    "static/media/real-eastate-lagos-3.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-lagos-3.9b5614268970473ecd18.jpeg",
+    "static/media/real-eastate-dominican-republic-3.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-dominican-republic-3.8aa0c57207bf006eb289.jpeg",
+    "static/media/real-eastate-lagos-1.jpeg": "/luxary-real-estate-react-responsive/static/media/real-eastate-lagos-1.08f64245c72ff69a635b.jpeg",
+    "static/media/real-eastate-indonesia.avif": "/luxary-real-estate-react-responsive/static/media/real-eastate-indonesia.7d211829a01e87543e97.avif",
+    "index.html": "/luxary-real-estate-react-responsive/index.html",
+    "main.d6accbad.css.map": "/luxary-real-estate-react-responsive/static/css/main.d6accbad.css.map",
+    "main.0e9c31fe.js.map": "/luxary-real-estate-react-responsive/static/js/main.0e9c31fe.js.map",
+    "787.b719428f.chunk.js.map": "/luxary-real-estate-react-responsive/static/js/787.b719428f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6accbad.css",
+    "static/js/main.0e9c31fe.js"
+  ]
+}
