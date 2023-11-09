@@ -24,6 +24,7 @@ const NavLink = css`
   height: 100%;
   curcor: pointer;
   text-decoration: none;
+  filter: drop-shadow(#242424 -3px 0px 15px);
 `
 
 const Logo = styled(Link)`
