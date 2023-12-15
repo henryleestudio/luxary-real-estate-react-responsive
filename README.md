@@ -1,4 +1,4 @@
-# The Artwear Gallery
+# Luxary Real Estate – React Responsive
 
 Link to project: <a target="_blank" href="https://theartweargallery.com/">live demo</a>
 
