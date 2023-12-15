@@ -2,9 +2,11 @@
 
 Link to project: <a target="_blank" href="https://henryleestudio.github.io/luxary-real-estate-react-responsive/">live demo</a>
 
-![aw-slide-1](https://github.com/henryleestudio/the-artwear-gallery/assets/101936420/af237149-d823-41b9-a12e-c1fabe0ab9f9)
+![mod-vsn-1](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/3347f0b7-dcfe-4fdb-afa2-b3df4159d3f4)
 
+![mod-vsn-2](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/9e89bffa-b041-4943-a13d-6f8907a67b45)
 
+![mod-vsn-3](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/7a0c908f-b577-454c-8930-14c460684d22)
 
 <!-- ## Design -->
 I managed a Shopify e-commerce platform, created website funnels, designed & managed online advertisements, launched new products. Led 13+ creative professionals in product design, research, leadership training. Created 50+ products and designed brand materials.
