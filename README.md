@@ -14,8 +14,6 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/luxar
 
 ![mod-vsn-6](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/7bfc0900-73a5-40bf-831f-23199fccb0b7)
 
-![mod-vsn-7](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/73dc7b43-c268-4c04-b054-1d50ed9dffde)
-
 ![mod-vsn-8](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/fc6ebb77-123f-40e9-a01c-903c694b281a)
 
 ![mod-vsn-9](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/dffe9891-7b13-416a-95af-02128546d68b)
