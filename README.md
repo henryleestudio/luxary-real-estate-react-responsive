@@ -2,6 +2,9 @@
 
 Link to project: <a target="_blank" href="https://henryleestudio.github.io/luxary-real-estate-react-responsive/">live demo</a>
 
+<!-- ## Description -->
+A sleek and luxurious web application using React.js and Styled Components. The combination of these tools allowed me to create a modern design that's both eye-catching and user-friendly.
+
 ![mod-vsn-1](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/3347f0b7-dcfe-4fdb-afa2-b3df4159d3f4)
 
 ![mod-vsn-2](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/9e89bffa-b041-4943-a13d-6f8907a67b45)
@@ -18,15 +21,6 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/luxar
 
 ![mod-vsn-9](https://github.com/henryleestudio/luxary-real-estate-react-responsive/assets/101936420/dffe9891-7b13-416a-95af-02128546d68b)
 
-<!-- ## Design -->
-I managed a Shopify e-commerce platform, created website funnels, designed & managed online advertisements, launched new products. Led 13+ creative professionals in product design, research, leadership training. Created 50+ products and designed brand materials.
-&nbsp
-• Design & create artwear / fashion collections.<br>
-• Manage the art gallery / venue space.<br>
-• Marketing the art & fashion products.<br>
-
-Liquid | JSON | Javascript | CSS | UI/UX Design | Videography | Typography | Photoshop
-<br>
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/172000054-7df36c23-7223-488f-8ecd-9f6bb4a79ff4.png" width="10%"/>
